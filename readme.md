@@ -1,8 +1,4 @@
-Here is a **short, simple README-style project description** for **mobile testing beginners**, without mentioning *task* or *submission*, and focused on the **Choose Your Cars app**:
-
----
-
-## 📱 Mobile Application Testing Project (Beginner QA)
+## 📱 Mobile Application Testing Project
 
 ### 🔹 Project Name
 
@@ -12,7 +8,7 @@ Here is a **short, simple README-style project description** for **mobile testin
 
 ### 🔹 Project Overview
 
-This project is about testing a mobile application called **Choose Your Cars** to understand **basic mobile app testing** concepts for beginner QA testers.
+This project is about testing a mobile application called **Choose Your Cars** to understand **mobile app testing**
 
 ---
 
@@ -51,7 +47,7 @@ Each identified issue should include:
 * Steps to Reproduce
 * Expected Result vs Actual Result
 * Severity (Low / Medium / High)
-* Screenshot (if available)
+* Screenshots
 
 ---
 
@@ -63,10 +59,3 @@ Each identified issue should include:
 * Gain confidence in manual mobile testing
 
 ---
-
-If you want, I can also:
-
-* Make this **even shorter (1-page README)**
-* Add **real bug examples from the app**
-* Convert this into **Hinglish version**
-* Create a **bug report template for practice**
